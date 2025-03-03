@@ -1,0 +1,27 @@
+com.hgnis.e_commerce_flutter.app-jetified-core-1.0.0-0 /Users/kutumb/.gradle/caches/transforms-3/427af799a83d617caabb8181d05e97c9/transformed/jetified-core-1.0.0/res
+com.hgnis.e_commerce_flutter.app-jetified-window-java-1.2.0-1 /Users/kutumb/.gradle/caches/transforms-3/43f8502013386c48041e8b05f46c0e26/transformed/jetified-window-java-1.2.0/res
+com.hgnis.e_commerce_flutter.app-jetified-window-1.2.0-2 /Users/kutumb/.gradle/caches/transforms-3/4e3541ae2842a7fa9c11f0ded0d282d1/transformed/jetified-window-1.2.0/res
+com.hgnis.e_commerce_flutter.app-jetified-activity-1.8.1-3 /Users/kutumb/.gradle/caches/transforms-3/52f2ab5ad4fc841dcc04e1733c9ed5e1/transformed/jetified-activity-1.8.1/res
+com.hgnis.e_commerce_flutter.app-lifecycle-viewmodel-2.7.0-4 /Users/kutumb/.gradle/caches/transforms-3/56da1b59c0b4edf7c8a3c86eaaa4b8e8/transformed/lifecycle-viewmodel-2.7.0/res
+com.hgnis.e_commerce_flutter.app-core-runtime-2.2.0-5 /Users/kutumb/.gradle/caches/transforms-3/5bd74417ba6f6c4917f73a7e8354a0dd/transformed/core-runtime-2.2.0/res
+com.hgnis.e_commerce_flutter.app-lifecycle-runtime-2.7.0-6 /Users/kutumb/.gradle/caches/transforms-3/610fe047e9212fec5c5d44fc441646ae/transformed/lifecycle-runtime-2.7.0/res
+com.hgnis.e_commerce_flutter.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-7 /Users/kutumb/.gradle/caches/transforms-3/6559a4b5acebf5dc65c0d4aa162fa43e/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.hgnis.e_commerce_flutter.app-fragment-1.7.1-8 /Users/kutumb/.gradle/caches/transforms-3/71e3304c748513a023e1f6463556736f/transformed/fragment-1.7.1/res
+com.hgnis.e_commerce_flutter.app-jetified-profileinstaller-1.3.1-9 /Users/kutumb/.gradle/caches/transforms-3/7541493fe94a26ad9c1fc68bb1408836/transformed/jetified-profileinstaller-1.3.1/res
+com.hgnis.e_commerce_flutter.app-jetified-core-ktx-1.13.1-10 /Users/kutumb/.gradle/caches/transforms-3/816ae5c5bef3b66de3af38be69225fa3/transformed/jetified-core-ktx-1.13.1/res
+com.hgnis.e_commerce_flutter.app-lifecycle-livedata-2.7.0-11 /Users/kutumb/.gradle/caches/transforms-3/84d7a88d7791275c3c096a29b7a7ac90/transformed/lifecycle-livedata-2.7.0/res
+com.hgnis.e_commerce_flutter.app-jetified-tracing-1.2.0-12 /Users/kutumb/.gradle/caches/transforms-3/a695a6833a888fb9fb15968d8b2fd9ba/transformed/jetified-tracing-1.2.0/res
+com.hgnis.e_commerce_flutter.app-jetified-lifecycle-livedata-core-ktx-2.7.0-13 /Users/kutumb/.gradle/caches/transforms-3/b058ac10bc93154ba120f2e8d2b1ccf2/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.hgnis.e_commerce_flutter.app-core-1.13.1-14 /Users/kutumb/.gradle/caches/transforms-3/b1d86b287a1b4be98b4c036095a568a8/transformed/core-1.13.1/res
+com.hgnis.e_commerce_flutter.app-jetified-lifecycle-process-2.7.0-15 /Users/kutumb/.gradle/caches/transforms-3/b45822ac1313d5d1e90d00bed574b978/transformed/jetified-lifecycle-process-2.7.0/res
+com.hgnis.e_commerce_flutter.app-lifecycle-livedata-core-2.7.0-16 /Users/kutumb/.gradle/caches/transforms-3/c9a9b9d5b9439410ddb408a33c532fb8/transformed/lifecycle-livedata-core-2.7.0/res
+com.hgnis.e_commerce_flutter.app-jetified-annotation-experimental-1.4.0-17 /Users/kutumb/.gradle/caches/transforms-3/e61a418b568a229a19174cdc717ee923/transformed/jetified-annotation-experimental-1.4.0/res
+com.hgnis.e_commerce_flutter.app-jetified-startup-runtime-1.1.1-18 /Users/kutumb/.gradle/caches/transforms-3/f5718b7560d619ab6ab757dcf1ba815d/transformed/jetified-startup-runtime-1.1.1/res
+com.hgnis.e_commerce_flutter.app-jetified-savedstate-1.2.1-19 /Users/kutumb/.gradle/caches/transforms-3/fa8e516f3fccbcf1eb7db97a7a49ab80/transformed/jetified-savedstate-1.2.1/res
+com.hgnis.e_commerce_flutter.app-debug-20 /Volumes/2 TB/Personal/Code/test/ecom/android/app/src/debug/res
+com.hgnis.e_commerce_flutter.app-main-21 /Volumes/2 TB/Personal/Code/test/ecom/android/app/src/main/res
+com.hgnis.e_commerce_flutter.app-pngs-22 /Volumes/2 TB/Personal/Code/test/ecom/build/app/generated/res/pngs/debug
+com.hgnis.e_commerce_flutter.app-resValues-23 /Volumes/2 TB/Personal/Code/test/ecom/build/app/generated/res/resValues/debug
+com.hgnis.e_commerce_flutter.app-packageDebugResources-24 /Volumes/2 TB/Personal/Code/test/ecom/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.hgnis.e_commerce_flutter.app-packageDebugResources-25 /Volumes/2 TB/Personal/Code/test/ecom/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.hgnis.e_commerce_flutter.app-merged_res-26 /Volumes/2 TB/Personal/Code/test/ecom/build/app/intermediates/merged_res/debug
